@@ -2,7 +2,7 @@
 
 # set environment
 
-source ./env.sh
+. ./env.sh
 
 # iterate through scnearios
 
