@@ -18,6 +18,9 @@ fi
 rm -rf $TOOL_DIR
 mkdir -p $TOOL_DIR
 
+rm -rf $LIB_DIR
+mkdir -p $LIB_DIR
+
 # get RabbitMQ Java client
 
 cd $TOOL_DIR
